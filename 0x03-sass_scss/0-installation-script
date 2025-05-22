@@ -1,0 +1,4 @@
+How to Install Sass
+1. Created a new directory labelled 0x03-sass_scss.
+2. Changed my terminal directory to 0x03-sass_scss.
+3. With npm installed, I run the command: npm install sass -v 3.7.4
